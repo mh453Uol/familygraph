@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.neoworks.interviewtests.graph.PeopleAndRelationshipTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-01-25T13:20:11" hostname="MICROSO-RAQBALS" time="0.018">
+  <properties/>
+  <testcase name="correctNumberOfPeopleImported" classname="com.neoworks.interviewtests.graph.PeopleAndRelationshipTest" time="0.006"/>
+  <testcase name="correctRelationshipLoaded" classname="com.neoworks.interviewtests.graph.PeopleAndRelationshipTest" time="0.002"/>
+  <testcase name="correctExtendedFamily" classname="com.neoworks.interviewtests.graph.PeopleAndRelationshipTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
